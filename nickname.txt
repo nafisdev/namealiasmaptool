@@ -1,0 +1,694 @@
+Ab	Abel
+Abbie	Abigail
+Abby	Abigail
+Abe	Abel	Abraham	Abram
+Ada	Adaline
+Addy	Adaline
+Adele	Adelaide
+Aggy	Agatha	Agnes	Augusta	Augustina
+Al	Alan	Albert	Aldo	Alexander	Alfonse	Alfred	Allan	Allen	Alonzo
+Albert	Elbert
+Alex	Alexander	Alexandra
+Alfy	Alfreda
+Alice	Lisa
+Alla	Alexandra
+Allie	Aileen	Alice	Alicia	Almena
+Amelia	Parmelia
+Amy	Amelia
+Andy	Anderson	Andrew
+Ann	Antoinette	Antonia	Rosaenn	Rosaenna	Roxanna	Roxanne
+Anna	Hannah
+Annie	Ann	Anne
+Ara	Arabella	Arabelle
+Archie	Archibald
+Arly	Arlene
+Arry	Arabella
+Art	Arthur
+Asa	Asahel
+Assene	Asenath
+August	Augustine
+Austin	Augustine
+Aze	Azariah
+Bab	Barbara
+Babs	Barbara
+Barbie	Barbara
+Barby	Barbara
+Barney	Barnabas	Bernard
+Bart	Bartholomew
+Bartel	Bartholomew
+Bat	Bartholomew
+Bea	Beatrice
+Becca	Rebecca
+Beck	Rebecca
+Becky	Rebecca
+Bela	William
+Bell	Isabel
+Bella	Arabella	Isabella	Rosabella
+Belle	Arabella	Belinda	Isabel	Isabelle	Rosabel
+Ben	Benedict	Benjamin
+Benjy	Benjamin
+Bennie	Benedict
+Berney	Bernard
+Bernie	Bernard
+Berny	Bernard
+Bert	Albert	Delbert	Elbert	Gilbert	Herbert	Hubert	Norbert
+Bertie	Alberta
+Bess	Elizabeth
+Bessie	Elizabeth
+Beth	Elizabeth
+Betsy	Elizabeth
+Betty	Elizabeth
+Bias	Tobias
+Biddie	Bridget
+Biddy	Bridget
+Bill	Robert	William
+Billy	Robert	William
+Birdie	Bertha	Roberta
+Birtie	Roberta
+Bob	Robert
+Bobbie	Barbara	Roberta
+Bobby	Robert
+Brad	Bradford
+Brady	Broderick
+Bridgie	Bridget
+Bridie	Bridget
+Brina	Sabrina
+Brody	Broderick
+Cal	Calvin
+Cam	Cameron
+Cammie	Camile	Camille
+Carl	Charles
+Carol	Carolann	Caroline
+Carole	Carolann
+Carrie	Carol
+Cassandra	Sandra
+Cassie	Carol	Caroline	Cassandra	Catherine	Cathleen
+Cathy	Catherine	Cathleen
+Ced	Cedric
+Celia	Cecilia
+Cene	Cyrenius
+Chan	Chauncey
+Char	Charlotte
+Charlie	Charles
+Chet	Chester
+Chick	Charles
+Chris	Christa	Christian	Christina	Christine	Christopher	Kristen	Kristin	Kristy
+Chrissy	Christine
+Christy	Christiana
+Chuck	Charles
+Cilla	Priscilla
+Cille	Lucille
+Cindy	Cinderlla	Cynthia
+Cintha	Cynthia
+Cissy	Cecilia
+Claas	Nicholas
+Claes	Nicholas
+Clair	Clarence
+Clara	Clarinda	Clarissa
+Clare	Clarence
+Clem	Clement
+Cliff	Clifford	Clifton
+Clum	Columbus
+Con	Conrad
+Connie	Constance
+Conny	Conrad
+Cordy	Cordelia
+Cornie	Cornelia
+Corny	Cornelia
+Court	Courtney
+Crissy	Chrintina	Chrintine	Christiana
+Curt	Courtney	Curtis
+Cy	Cyrenius	Cyrus
+Dahl	Dal
+Daisy	Margaret
+Dan	Daniel
+Danny	Daniel
+Darkey	Dorcus
+Darry	Darlene
+Dave	David
+Davey	David
+Day	David
+Deb	Debora	Deborah	Debra
+Debbie	Debora	Deborah	Debra
+Debby	Debora
+Dee	Delores
+Del	Delbert
+Delia	Adaline
+Dell	Adaline
+Della	Adelaide	Delores
+Delly	Deliverance
+Delphia	Adelphia
+Dennie	Dennis
+Dennis	Dennison
+Denny	Dennis
+Diah	Obadiah
+Dicie	Dicey
+Dick	Richard
+Dickie	Richard
+Dickon	Richard
+Dicky	Richard
+Dilly	Deliverance
+Dina	Geraldine
+Dite	Epaphroditius
+Ditus	Epaphroditius
+Dob	Robert
+Dobbin	Robert
+Dolly	Dorothy
+Dolph	Randolph
+Dom	Domenic	Dominico
+Don	Donald	Donato
+Donnie	Donald
+Donny	Donald
+Dony	Donald
+Dora	Dorothy	Eldora	Isadora
+Dortha	Dorothy
+Dot	Dorothy
+Dottie	Dorothy
+Dotty	Dorothy
+Drew	Andrew
+Dyce	Epaphroditius
+Dyche	Epaphroditius
+Dyer	Obadiah
+Eb	Abel
+Ebbie	Abel
+Eben	Ebenezer
+Ed	Edgar	Edmond	Edmund	Eduardo	Edward	Edwin
+Eddie	Edgar	Edmond	Edmund	Eduardo	Edward	Edwin
+Eddy	Edgar	Edmond	Edmund	Eduardo	Edward	Edwin
+Edie	Edith	Edyth	Edythe
+Edye	Edith	Edyth	Edythe
+Elaine	Eleanor
+Eli	Elias
+Eliza	Elizabeth
+Ella	Gabriella
+Ellen	Eleanor
+Ellie	Eleanor
+Elly	Elmira
+Eloise	Heloise
+Elouise	Heloise
+Elsey	Ellswood
+Elsie	Alice
+Em	Emeline
+Emily	Amelia	Emeline
+Emma	Emeline	Emily
+Emmy	Emeline
+Eph	Ephraim
+Eppa	Epaphroditius
+Eric	Derrick
+Erin	Aaron
+Ernie	Ernest
+Essa	Vanessa
+Essy	Estella
+Esther	Hester
+Etta	Henrietta
+Etty	Henrietta
+Eva	Evaline
+Eve	Evaline	Genevieve
+Ez	Ezekiel
+Fanny	Frances
+Fate	Lafayette
+Fay	Faith
+Felty	Feltie
+Ferdie	Ferdinand
+Field	Winfield
+Fina	Josephine
+Flo	Florence
+Flora	Florence
+Flossy	Florence
+Ford	Bradford
+Fran	Frances	Francine	Francis
+Francie	Frances	Francine
+Frank	Francis	Franklin
+Frankie	Frances	Francis
+Franky	Veronica
+Frannie	Frances	Francine
+Franniey	Frances
+Franny	Frances	Francine
+Fred	Alfred	Ferdinand	Frederick	Frieda	Winnifred
+Freda	Alfreda	Fredericka
+Freddie	Ferdinand	Frederick	Frieda	Winnifred
+Freddy	Alfred	Alfreda	Ferdinand	Frederick	Frieda	Winnifred
+Frieda	Alfreda
+Fritz	Frederick
+Frony	Veronica
+Gabby	Gabriel	Gabriella	Gabrielle
+Gabe	Gabriel
+Gail	Abigail
+Gatsy	Augusta
+Gene	Eugene
+Geoff	Geoffrey	Jeffrey
+George	Georgine
+Gerrie	Geraldine
+Gerry	Gerald	Geraldine
+Gert	Gertrude
+Gertie	Gertrude
+Gil	Gilbert
+Gina	Regina
+Ginger	Virginia
+Ginny	Virginia
+Gretta	Margaret	Margaretta
+Gum	Montgomery
+Gus	August	Augustine	Augustus
+Gussie	Augusta
+Gwen	Gwendolyn
+Hal	Harold	Henry
+Hallie	Mahala
+Hank	Henrietta	Henry
+Hannah	Joanna	Johannah
+Harry	Harold	Henry
+Hattie	Harriet
+Heidi	Adelaide
+Henny	Henrietta
+Herb	Herbert
+Hermie	Hermione
+Hessy	Hester
+Hetty	Hester
+Hez	Hezekiah
+Hiel	Jehiel
+Hipsie	Hephsibah	Hipsbibah
+Hitty	Mehitabel
+Hob	Robert
+Hobkin	Robert
+Hodge	Rodger
+Hop	Hopkins
+Hopp	Hopkins
+Horry	Horace
+Hub	Hubert
+Hugh	Hubert
+Hy	Hezekiah
+Ib	Isabel
+Iggy	Ignatius
+Ike	Isaac
+Ina	Lavina
+Inez	Agnes
+Irv	Irving
+Issy	Isabel	Isabella	Isabelle	Isadora
+Izzy	Isadore	Isidore
+Jaap	Jacob
+Jack	John
+Jacob	Jacobus
+Jake	Jacob
+Jamie	Benjamin	James
+Jan	Janet
+Jane	Jean
+Janet	Jeanette
+Janie	Jane
+Jay	Jacob
+Jean	Genevieve
+Jeannie	Jean
+Jeb	Jebadiah
+Jed	Jedidiah
+Jeff	Geoffrey	Jefferson	Jeffrey
+Jem	James
+Jennie	Jane	Jennifer
+Jenny	Genevieve	Jennifer
+Jereme	Jeremiah
+Jerry	Gerald	Geraldine	Jeremiah
+Jessie	Jane	Jessica
+Jill	Julia
+Jim	James
+Jimmie	James
+Jimmy	James
+Jo	Joan	Joann	Joanna	Joanne	Johanna	Johannah	Josophine
+Joan	Joanna
+Jock	John
+Jody	Joanna	Joseph
+Joe	Joseph	Joshua
+Joey	Joseph	Josophine
+John	Johann	Jon	Jonathan
+Johnny	John
+Jon	Jonathan
+Jos	Joseph
+Josey	Josephine	Josophine
+Josh	Joshua
+Joy	Joyce
+Jr	Junior
+Jud	Judson
+Judy	Judith
+Jule	Julian
+Julie	Julia
+June	Junior
+Junie	Junior
+K	C
+Kate	Katelin	Katelyn	Katherine
+Kathy	Catherine	Katherine	Kathleen	Kathryn
+Katy	Catherine	Katherine	Kathleen
+Kay	Catherine	Katelin	Katelyn	Katherine
+Kaye	Katelin	Katelyn	Katherine
+Ken	Kendall	Kenneth
+Kendrick	Kenneth
+Kenny	Kendall	Kenneth
+Kiah	Hezekiah
+Kim	Kimberley	Kimberly
+King	Kingsley
+Kit	Catherine
+Kittie	Catherine
+Kizza	Keziah
+Kizzie	Keziah
+Kris	Christiana
+Kristy	Christiana
+L	R
+Laffie	Lafayette
+Lanna	Eleanor
+Lanny	Roland
+Larry	Laurence	Lawrence
+Lazar	Eleazer
+Leafa	Relief
+Lee	Elias
+Leet	Philetus
+Left	Eliphalet
+Lem	Lemuel
+Len	Leonard
+Lena	Adaline	Aileen	Arlene	Cathleen	Darlene	Kathleen	Magdelina
+Lenny	Leonard
+Lenora	Eleanor
+Leo	Leonard
+Leon	Leonard	Napoleon
+Les	Leslie	Lester
+Lettice	Letitia
+Lettie	Letitia
+Lias	Elias
+Lib	Elizabeth
+Libby	Elizabeth
+Lige	Elijah
+Lil	Lillah
+Lilly	Lillah	Lillian
+Lily	Lillah
+Lina	Paula
+Linda	Belinda	Melinda
+Lindy	Linda
+Lineau	Leonard
+Link	Lincoln
+Lisa	Alice	Melissa
+Lish	Elisha
+Lissa	Melissa
+Livia	Olive
+Liz	Elizabeth
+Liza	Elizabeth
+Lizzie	Elizabeth
+Lois	Heloise	Louise
+Lola	Delores
+Lolly	Delores
+Lon	Alonzo
+Lonny	Laurence
+Lonzo	Alonzo
+Loren	Lorenzo
+Lorie	Loretta	Lorraine
+Lorne	Laurence
+Lorrie	Loretta
+Lorry	Laurence
+Lotta	Charlotte
+Lottie	Charlotte
+Lou	Louis	Louisa	Louise	Lucinda
+Louise	Elouise
+Lu	Lucille
+Lucy	Lucille	Lucinda
+Luke	Lucas	Lucias
+Lula	Luella
+Lyddy	Lidia
+Lynn	Carol	Caroline	Carolyn
+Mabel	Mehitabel
+Maddy	Madeline	Madelyn
+Madge	Madeline	Magdelina	Margaretta
+Madie	Madeline	Madelyn
+Mae	Mary
+Magda	Madeline
+Maggie	Madeline	Magdelina	Margaret
+Maggy	Margaret
+Mamie	Mary
+Manda	Amanda
+Mandy	Amanda
+Manny	Emanuel
+Manuel	Emanuel
+Marge	Margaret	Margaretta
+Margery	Margaret
+Margie	Margaret	Marjorie
+Margy	Margaret	Marjorie
+Mark	Marcus
+Marty	Martha	Martin
+Marv	Marvin
+Mat	Martha
+Matt	Mathew	Matthew
+Mattie	Martha
+Matty	Matilda
+Maud	Madeline	Matilda
+Mees	Bartholomew
+Meg	Margaret
+Mel	Amelia	Melinda	Melissa
+Melia	Parmelia
+Melissa	Lisa
+Mena	Almena
+Merv	Mervin	Mervyn
+Meus	Bartholomew
+Micah	Michael
+Mick	Michael
+Mickey	Michael	Michelle
+Micky	Michael
+Midge	Margaret
+Mike	Michael
+Millie	Amelia
+Milly	Emeline
+Mima	Jemima
+Mimi	Miriam
+Mina	Wilhelmina
+Mindy	Melinda
+Minnie	Minerva	Wilhelmina
+Mira	Elmira
+Missy	Melissa
+Mitch	Mitchell
+Mitty	Mehitabel
+Mitzi	Mary
+Molly	Mary
+Monty	Lamont
+Morey	Maurice
+Nabby	Abigail
+Nace	Ignatius
+Naldo	Reginald
+Nan	Ann
+Nana	Ann
+Nancy	Ann
+Nanny	Ann
+Nap	Napoleon
+Nappy	Napoleon
+Nat	Nathan	Nathaniel
+Nate	Ignatius	Nathan	Nathaniel
+Nathan	Jon	Jonathan
+Natius	Ignatius
+Natty	Asenath
+Ned	Edmund
+Neil	Cornelius
+Nelia	Cornelia
+Nelle	Cornelia
+Nelly	Cornelia
+Nessa	Agnes	Venessa
+Netta	Antoinette
+Nettie	Henrietta
+Newt	Newton
+Nib	Isabel
+Nibby	Isabel
+Nick	Nicholas
+Nickie	Nicholas
+Nik	Nicole
+Nicki	Nicole
+Niel	Cornelius
+Nita	Juanita
+Nollie	Olive
+Nonie	Joan
+Nora	Eleanor	Lenora
+Norby	Norbert
+Obed	Obadiah
+Obie	Obadiah	Obediah
+Ollie	Olive	Oliver
+Olph	Rudolph
+Orlando	Roland
+Ossy	Oswald
+Ozzy	Oswald
+Paddy	Patrick
+Pam	Pamela
+Pat	Patience	Patricia	Patrick
+Pate	Patrick
+Patsy	Martha	Patricia
+Patty	Martha	Patricia
+Peg	Margaret
+Peggy	Margaret
+Penny	Penelope
+Percy	Percival
+Perry	Pelegrine
+Pete	Peter
+Peter	Patrick
+Phena	Tryphena
+Phil	Philetus	Philip	Phillip
+Philly	Adelphia
+Polly	Mary	Paulina
+Pres	Prescott
+Prissy	Priscilla
+Prudy	Prudence
+Prue	Prudence
+Rafa	Rafaela
+Ralph	Raphael
+Randy	Miranda	Randolph
+Ray	Raymond
+Reba	Rebecca
+Reg	Reginald
+Reggie	Regina	Reginald
+Rena	Irene
+Renius	Cyrenius
+Renny	Reginald
+Retta	Henrietta
+Riah	Azariah
+Rich	Aldrich	Richard
+Riche	Aldrich
+Richie	Aldrich	Richard
+Rick	Broderick	Derick	Ricardo	Richard
+Ricka	Fredericka
+Ricky	Broderick	Derick	Richard
+Rita	Margaret
+Rob	Robert	Roberto
+Robbie	Roberta
+Robby	Robert	Rodger
+Robin	Rodger
+Rod	Broderick	Rodger
+Roge	Rodger
+Rolf	Rudolph
+Rollo	Roland
+Rolly	Roland
+Ron	Aaron	Ronald	Veronica
+Ronie	Veronica
+Ronna	Veronica
+Ronnie	Aaron	Ronald	Veronica
+Ronny	Cameron	Ronald	Veronica
+Rosa	Rosabel
+Rose	Rosabel	Rosabella	Rosalyn	Roseann	Roseanna	Roxanna	Roxanne
+Rosie	Roseann
+Roxie	Roxanna
+Roy	Leroy
+Roz	Rosabel	Rosabella	Rosalyn
+Rube	Reuben
+Rudy	Rudolph
+Rupert	Rodger
+Russ	Russell
+Rusty	Russell
+Sadie	Sarah
+Sal	Solomon
+Sally	Sarah
+Salmon	Solomon
+Sam	Samuel
+Sammy	Samuel
+Sandra	Alexandra	Cassandra
+Sandy	Alexander	Cassandra	Sandra
+Saul	Solomon
+Scott	Prescott
+Scotty	Prescott
+See	Seymour
+Sene	Asenath
+Serene	Cyrenius
+Shel	Shelton
+Shelly	Michelle	Rachel	Shelton
+Sher	Sheridan
+Sherry	Charlotte	Shirley
+Shirl	Shirley
+Si	Silas
+Sid	Sidney
+Sion	Simeon
+Sis	Frances
+Sly	Sylvester
+Smitty	Smith
+Sol	Solomon
+Solly	Solomon
+Sonny	Jefferson
+Sophie	Sophia
+Stella	Estella
+Steph	Stephen	Steven
+Steve	Stephan	Stephen	Steven
+Stu	Stuart
+Sue	Susan	Susannah
+Sukey	Susan
+Sully	Sullivan
+Susie	Susan	Susannah
+Suzie	Susan
+Swene	Cyrenius
+Sy	Sylvester
+Syd	Sidney
+Syl	Sylvester
+Tabby	Tabitha
+Ted	Edmund	Theodore
+Teddy	Edward	Theodore
+Terry	Terence
+Tess	Teresa	Theresa
+Tessa	Teresa	Theresa
+Tessie	Teresa	Theresa
+Thad	Thaddeus
+Than	Nathaniel
+Theo	Theodore
+Thias	Matthew
+Thirza	Theresa
+Thom	Thomas
+Thursa	Theresa
+Thys	Matthew
+Tibbie	Isabel
+Tilla	Matilda
+Tilly	Matilda
+Tim	Timothy
+Timmy	Timothy
+Tina	Augusta	Augustina	Christina	Martina
+Tish	Latisha	Letitia	Tisha
+Tisha	Latisha
+Titia	Letitia
+Toby	Tobias
+Tom	Thom	Thomas
+Tommy	Thom	Thomas
+Tony	Anthony	Shelton
+Tori	Victoria
+Torie	Victoria
+Torri	Victoria
+Torrie	Victoria
+Tory	Victoria
+Tracy	Theresa
+Tricia	Patricia
+Trina	Catherine
+Trisha	Beatrice	Patricia
+Trix	Beatrice
+Trixie	Beatrice
+Trudy	Gertrude
+Val	Valeri	Valerie
+Van	Sullivan
+Vanna	Vanessa
+Vessie	Sylvester
+Vester	Sylvester
+Vet	Sylvester
+Vic	Victor	Vincent	Vincenzon
+Vicki	Victoria
+Vickie	Victoria
+Vicky	Victoria
+Vin	Calvin	Vincent	Vincenzo
+Vina	Lavina
+Vince	Vincent	Vinson
+Viney	Lavina
+Vinnie	Vincent	Vincenzo
+Vinny	Calvin
+Virgy	Virginia
+Vonna	Yvonne
+Vonnie	Veronica
+Waldo	Oswald
+Wally	Wallace
+Walt	Walter
+Wash	Washington
+Wendy	Gwendolyn
+Wilber	Gilbert
+Will	Wilber	Wilbur	William	Wilson
+Willie	Wilbur	William	Wilson
+Willy	Wilbur
+Wilma	Wilhelmina
+Win	Edwin
+Winnet	Winifred
+Winnie	Winifred	Winnifred
+Winny	Winfield	Winnifred
+Wood	Woodrow
+Woody	Elwood
+Zach	Zachariah
+Zachy	Zachariah
+Zeb	Zebedee
+Zed	Zedediah
+Zeke	Ezekiel
+Zeph	Zephaniah
+Zolly	Solomon

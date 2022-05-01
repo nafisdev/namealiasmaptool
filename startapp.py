@@ -6,9 +6,9 @@ app = Flask(__name__)
 def promptname(name):
     nickname_list = []
     alias_list =[]
-    if name in dataprep.nickname_dict.keys():
+    if name.lower() in dataprep.nickname_dict.keys():
         nickname_list = dataprep.nickname_dict[name.lower()]
-    if name in dataprep.alias_dict.keys():
+    if name.lower() in dataprep.alias_dict.keys():
         alias_list = dataprep.alias_dict[name.lower()]
 
     return {"result": nickname_list+alias_list}

@@ -21,7 +21,10 @@ class DataPrep:
             for k in set:
                 setcopy = set.copy()
                 setcopy.remove(k)
-                alias_dict[k] = setcopy
+                if k in alias_dict.keys():
+                    alias_dict[k] = alias_dict[k]+setcopy
+                else:
+                    alias_dict[k] = setcopy
         # with open('variant_noformat.txt') as fin:
         #     for line in fin:
         #         set = line.lower().split()
@@ -42,11 +45,13 @@ class DataPrep:
         for i in range(nickname_data.size):
             set = nickname_data.iloc[i][0].lower().split('\t')
             for k in set:
-                setcopy=set.copy()
-                if len(setcopy) == 1:
-                    nickname_dict[setcopy[0]] = k
+                setcopy = set.copy()
                 setcopy.remove(k)
-                nickname_dict[k]=setcopy
+
+                if k in nickname_dict.keys():
+                    nickname_dict[k] = nickname_dict[k]+setcopy
+                else:
+                    nickname_dict[k] = setcopy
         # with open('nickname_noformat.txt') as fin:
         #     for line in fin:
         #         set = line.lower().split()

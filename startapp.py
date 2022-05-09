@@ -2,7 +2,7 @@ from flask import Flask
 from main import DataPrep
 
 app = Flask(__name__)
-@app.route('/hello/<string:name>/', methods=['GET', 'POST'])
+@app.route('/findmatch/<string:name>/', methods=['GET', 'POST'])
 def promptname(name):
     nickname_list = []
     alias_list =[]

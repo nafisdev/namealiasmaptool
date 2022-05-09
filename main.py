@@ -43,6 +43,8 @@ class DataPrep:
             set = nickname_data.iloc[i][0].lower().split('\t')
             for k in set:
                 setcopy=set.copy()
+                if len(setcopy) == 1:
+                    nickname_dict[setcopy[0]] = k
                 setcopy.remove(k)
                 nickname_dict[k]=setcopy
         # with open('nickname_noformat.txt') as fin:
